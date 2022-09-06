@@ -5,7 +5,7 @@
         "sn": "17A2PDN632206",
         "mac1": "00113282CD7D"
     },
-    "synoinfo": {},
+    "synoinfo": {./redpill_tool_chain.sh auto ds920p-7.1.0-42661},
     "ramdisk_copy": {},
     "extensions": []
 }
